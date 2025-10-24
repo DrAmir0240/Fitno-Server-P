@@ -43,7 +43,7 @@
 
 Backend: Python, Django, Django REST Framework
 
-Frontend: jQuery برای داشبورد مدیریتی
+Frontend: React.js برای داشبورد مدیریتی
 
 Database: PostgreSQL
 
